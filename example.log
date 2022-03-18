@@ -1,0 +1,17 @@
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+ERROR:root:error
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+ERROR:root:error
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+ERROR:root:error
+CRITICAL:root:Critical error
+INFO:root:So should this
+WARNING:root:And this, too
+ERROR:root:error
+CRITICAL:root:Critical error
